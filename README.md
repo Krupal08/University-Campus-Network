@@ -1,3 +1,4 @@
+![university campus network topology](https://user-images.githubusercontent.com/72334419/235160555-3f625725-4b84-464c-9ac3-6398acf4c853.png)
 # University Campus Network Topology in Packet Tracer
 
 A campus is situated 20 miles apart. The students and staff are distributed in 5 faculty
