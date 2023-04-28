@@ -8,7 +8,7 @@ A campus is situated 20 miles apart. The students and staff are distributed in 5
 -	Art & Design
 Each member of staff has pc and student have access to PCs in Labs.
 
-Requirements A: -------------------------------------------------------------------------------------------------------------------------------------------
+Requirements A: -------------------------------------------------------------------------------------------------------------------
 
 Create a network topology with the main components to support the following:
 <B>Main Campus</B> 
@@ -22,7 +22,7 @@ Create a network topology with the main components to support the following:
 <B>Smaller campus:</B>
 Faculty of health and science (staff & student labs are situated on separate floor)
 
-Requirement B: --------------------------------------------------------------------------------------------------------------------------------------------
+Requirement B: -----------------------------------------------------------------------------------------------------------------
 
 You will be expected to configure the core devices and few end devices to prove end-to-end connectivity and access to the internal servers and external servers.
 
@@ -34,7 +34,7 @@ iii.	RIPv2 will be used to wide routing for the routers in the internal network 
 
 iv.	The devices in building A will be expected to acquire Dynamic IP address from router-based DHCP server.
 
-#######################################################################################################
+##############################################################################
 
 <B>Technologies Implemented:</B>
 
